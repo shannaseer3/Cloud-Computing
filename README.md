@@ -15,3 +15,6 @@ Windows inside EC2
 
 Ubuntu inside EC2
 ![Screenshot (34)](https://user-images.githubusercontent.com/102585030/191884321-9178ef64-9d7c-41d9-94b7-094c55258868.png)
+
+Cpanel Host in Ec2
+![Screenshot (51)](https://user-images.githubusercontent.com/102585030/192952520-eae7deef-81d4-4b8c-b8f5-4c51aa4e35e7.png)
