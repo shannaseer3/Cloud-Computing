@@ -18,3 +18,7 @@ Ubuntu inside EC2
 
 Cpanel Host in Ec2
 ![Screenshot (51)](https://user-images.githubusercontent.com/102585030/192952520-eae7deef-81d4-4b8c-b8f5-4c51aa4e35e7.png)
+
+Open VPN through EC2
+<img width="960" alt="Screenshot 2022-11-03 08 32 06" src="https://user-images.githubusercontent.com/102585030/203750135-e6e7f7ad-4278-447f-b6ea-927a6af52946.png">
+
